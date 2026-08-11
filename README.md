@@ -1,5 +1,13 @@
 # 🚀 Meta Full-Stack Software Engineering Journal
 
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Progress](https://img.shields.io/badge/Progress-2%2F10%20Courses%20Completed-brightgreen.svg)]()
+[![Total Estimated Effort](https://img.shields.io/badge/Total%20Program-305%20Hours-orange.svg)]()
+
+Welcome to my daily learning journal and code repository! Here, I systematically document my daily progress, technical insights, project implementation, and code samples as I complete the **Meta Full-Stack Developer Professional Certification**.
+
+---
+
 ## 📌 Executive Summary
 
 * **Target Certification:** Meta Full-Stack Developer
