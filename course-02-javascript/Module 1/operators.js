@@ -9,12 +9,15 @@
 
 //Comparision operator
 
-console.log(2>3) //greaterthan
-console.log(4<8) //lessthan
-console.log(4>=4) //greaterthan or equal
-console.log(4<=4) //lessthan or equal
-console.log(5==5) //equal to
-console.log(5!=5) // not equal to
+// console.log(2>3) //greaterthan
+// console.log(4<8) //lessthan
+// console.log(4>=4) //greaterthan or equal
+// console.log(4<=4) //lessthan or equal
+// console.log(5==5) //equal to
+// console.log(5!=5) // not equal to
+
+//logical operator
+
 
 
 
