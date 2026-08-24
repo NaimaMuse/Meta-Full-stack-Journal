@@ -28,3 +28,23 @@ car["color"] = "green";
 car["speed"] = 200;
 car.speed = 100;
 console.log(car); // {color: "green", speed: 100}
+
+
+
+
+
+
+
+var clothes = []
+clothes.push('pants')
+clothes.push('Shirt')
+clothes.push('Trousers')
+clothes.push('Dress')
+clothes.push('Jacket')
+// clothes.pop(5)
+console.log(clothes[2])
+
+var favCar = {};
+favCar.color = "red";
+favCar.convertible = true;
+
