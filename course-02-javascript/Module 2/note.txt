@@ -1,0 +1,8 @@
+Easy way to remember 🧠
+Syntax Error → ❌ Wrong code structure
+Reference Error → ❌ Can't find the variable/function
+Type Error → ❌ Wrong type of value
+Bug → 🐛 Your program doesn't behave as intended
+Error → ⚠️ General name for a problem in the program
+
+Important: A bug is not necessarily an error message. Your program can run without crashing but still have a bug.
