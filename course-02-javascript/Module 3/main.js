@@ -1,66 +1,70 @@
-// // // // // let x = 5;
-// // // // // let y = 6;
+// // // // // // let x = 5;
+// // // // // // let y = 6;
 
-// // // // // function exchange(a,b){
-// // // // //     return a * b
+// // // // // // function exchange(a,b){
+// // // // // //     return a * b
 
+// // // // // // }
+// // // // // // console.log(exchange(x,y));
+
+// // // // // // console.log(console.log('Hello'))
+
+// // // // // function myDay() {
+// // // // //     console.log('Morning');
+// // // // //     console.log('Afternoon');
+// // // // //     console.log('Evening');
+// // // // //     myDay();
 // // // // // }
-// // // // // console.log(exchange(x,y));
+// // // // // console.log(myDay)
+// // // // // var user = "Mary";
+// // // // // var user = "Joanna";
+// // // // // console.log(user)
 
-// // // // // console.log(console.log('Hello'))
+// // // // let age = 20;
 
-// // // // function myDay() {
-// // // //     console.log('Morning');
-// // // //     console.log('Afternoon');
-// // // //     console.log('Evening');
-// // // //     myDay();
-// // // // }
-// // // // console.log(myDay)
-// // // // var user = "Mary";
-// // // // var user = "Joanna";
-// // // // console.log(user)
+// // // // age = 21;
 
-// // // let age = 20;
-
-// // // age = 21;
-
-// // // console.log(age);
+// // // // console.log(age);
 
 
 
-// // var globalVar = 77;
+// // // var globalVar = 77;
 
-// // function scopeTest() {
-// //         var localVar = 88;
+// // // function scopeTest() {
+// // //         var localVar = 88;
+// // //     }
+
+// // // console.log(localVar);
+
+
+
+// //     function meal(animal) {
+// //         animal.food = animal.food + 10;
 // //     }
 
-// // console.log(localVar);
+// //     var dog = {
+// //         food: 10
+// //     };
+// //     meal(dog);
+// //     meal(dog);
+
+// //     console.log(dog.food);
 
 
-
-//     function meal(animal) {
-//         animal.food = animal.food + 10;
+//     function two() {
+//         return 2;
 //     }
 
-//     var dog = {
-//         food: 10
-//     };
-//     meal(dog);
-//     meal(dog);
+//     function one() {
+//         return 1;
+//     }
 
-//     console.log(dog.food);
+//     function calculate(initialValue, incrementValue) {
+//         return initialValue() + incrementValue() + incrementValue();
+//     }
+
+//     console.log(calculate(two, one));
 
 
-    function two() {
-        return 2;
-    }
-
-    function one() {
-        return 1;
-    }
-
-    function calculate(initialValue, incrementValue) {
-        return initialValue() + incrementValue() + incrementValue();
-    }
-
-    console.log(calculate(two, one));
+console.log(document.querySelectorAll('p'));
+console.log(document.getElementById('heading'))
