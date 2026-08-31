@@ -1,0 +1,16 @@
+# two types of file handling 
+#  1. open
+#  2. close :for closing file 
+
+#  1. open
+# needs two arguments 
+#     file name or location 
+#     mode: what action you are doing(read,write,creating)
+    #mode r = 'open and read', 
+    #mode rb = 'open and read in binary format'
+    #mode r+ = 'open for reading and writting'
+    #mode w = 'open for writting'
+    #mode a = 'editing or appending data'
+
+#  2. close no arguemnts
+
